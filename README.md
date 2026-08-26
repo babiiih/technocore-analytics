@@ -83,4 +83,4 @@ fetch → raw_messages.json
 
 MIT — free for any use.
 
-Built for the Technocore ecosystem by [@MahesaA64969](https://x.com/MahesaA64969) · GitHub [babiiih](https://github.com/babiiih)
+Built for the Technocore ecosystem.

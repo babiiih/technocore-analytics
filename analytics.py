@@ -17,7 +17,7 @@ Usage:
     python analytics.py rank --top 20
     python analytics.py serve             # tiny http server for dashboard
 
-Author: babiiih (@MahesaA64969)
+Author: Technocore community
 MIT License.
 """
 import argparse
