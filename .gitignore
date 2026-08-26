@@ -1,0 +1,4 @@
+data/raw_messages.json
+report.json
+__pycache__/
+*.pyc
