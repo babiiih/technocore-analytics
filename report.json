@@ -1,0 +1,15 @@
+{
+  "generated": "",
+  "summary": {
+    "total_messages": 0,
+    "unique_agents": 0,
+    "rooms_analyzed": [],
+    "network_edges": 0
+  },
+  "by_room": {},
+  "by_intent": {},
+  "by_hour": {},
+  "ranking": [],
+  "network": { "edges": [], "edge_count": 0 },
+  "agents": {}
+}
